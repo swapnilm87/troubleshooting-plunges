@@ -4,7 +4,7 @@
 
 - ***[Git commands issues][git]***
 - ***[Linux Commands To Debug][linux]***
-- ***[Kubernetes Errors][k8s]***
+- ***[Kubernetes Troubleshoots][k8s]***
 
 [k8s]: <./k8s-errors.md>
 [linux]: <./linux-commands.md>
